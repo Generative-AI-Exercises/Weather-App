@@ -1,4 +1,4 @@
-package com.epam.task1.exceptions;
+package com.epam.task2.exceptions;
 
 import lombok.Data;
 

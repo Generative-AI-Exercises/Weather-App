@@ -1,4 +1,4 @@
-package com.epam.task1.exceptions;
+package com.epam.task2.exceptions;
 
 import java.util.ArrayList;
 import java.util.HashMap;
